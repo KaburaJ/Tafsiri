@@ -160,15 +160,13 @@ class OuterbasePluginCell_$PLUGIN_ID extends HTMLElement {
         }
 
         if (this.batchData.length > 0) {
-          // Use the batch translation language for batch translation
           await this.translateBatch(this.batchTranslationLanguage, translatedList);
         } else {
           translatedList.innerHTML = "No text for batch translation.";
         }
       } else {
-        // Clear batch translation and switch to cell-by-cell translation
         this.batchData = [];
-        translatedList.innerHTML = ""; // Clear the translated list
+        translatedList.innerHTML = ""; 
         await this.translateCell(targetLanguage, translatedList);
       }
     
