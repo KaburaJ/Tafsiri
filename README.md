@@ -1,4 +1,5 @@
 # Tafsiri: Multilingual Translation Plugin
+![Tafsiri in Action](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafy.PNG)
 
 Tafsiri is a versatile multilingual translation plugin designed with [Outerbase](https://beta.outerbase.com/) integration in mind. It was developed as a submission for the Outerbase Hackathon, in which the creator is participating. [Here's the article I submitted](https://kaburaj.hashnode.dev/tafsiri-outerbases-multilingual-data-translation-plugin). It details how exactly Tafsiri was created and the thought process behind it.
 
@@ -9,7 +10,6 @@ Tafsiri is a versatile multilingual translation plugin designed with [Outerbase]
 - **Cell-by-Cell Translation**: Provides the ability to translate content cell by cell.
 - **Batch Translation Mode**: Offers the convenience of translating content in batch mode.
 
-![Tafsiri in Action](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafy.PNG)
 ![Tafsiri Interface](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafsiri.PNG)
 
 ## Usage
