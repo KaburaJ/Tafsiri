@@ -48,10 +48,10 @@ templateCell_$PLUGIN_ID.innerHTML = `
       border: none;
       outline: none;
       background-color: transparent;
-      width: auto; /* Set width to auto to adjust automatically */
-      height: auto; /* Set height to auto to adjust automatically */
-      position: static; /* Remove absolute positioning */
-      transform: none; /* Remove any transformations */
+      width: auto;
+      height: auto; 
+      position: static; 
+      transform: none; 
       z-index: 999;
       margin-top: 8em;
     }
