@@ -1,18 +1,22 @@
-# Tafsiri
-Tafsiri is a multilingual translation plugin built with [Outerbase](https://beta.outerbase.com/) in mind. It was my submission for the Outerbase Hackathon in which I am competing.
-<br><br>
-![alt](https://github.com/KaburaJ/Tafsiri/blob/main/images/outerbase%20cover%20photo.PNG)
-<br>
-Currently, Tafsiri is a column plugin. It does translation either cell by cell or in batch mode. 
-<br><br>
-![alt](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafy.PNG)
-![alt](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafsiri.PNG)
-<br><br>
+# Tafsiri: Multilingual Translation Plugin
 
-The cell by cell mode works smoothly but in the batch mode, I cannot seem to get the select language functionality to work. Thus, I have set the default language during batch mode to be French.
-<br><br>
+Tafsiri is a versatile multilingual translation plugin designed with [Outerbase](https://beta.outerbase.com/) integration in mind. It was developed as a submission for the Outerbase Hackathon, in which the creator is participating.
 
+![Tafsiri Cover](https://github.com/KaburaJ/Tafsiri/blob/main/images/outerbase%20cover%20photo.PNG)
 
-The data I used can be sourced [here](https://uibakery.io/sql-playground)
+## Features
+- **Column Plugin**: Tafsiri operates seamlessly as a column plugin.
+- **Cell-by-Cell Translation**: Provides the ability to translate content cell by cell.
+- **Batch Translation Mode**: Offers the convenience of translating content in batch mode.
 
-[Here's a demo of Tafsiri in action](https://youtu.be/kQcZr803vxg?si=7o7pIPaxcgYlpZMc)
+![Tafsiri in Action](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafy.PNG)
+![Tafsiri Interface](https://github.com/KaburaJ/Tafsiri/blob/main/images/tafsiri.PNG)
+
+## Usage
+While the cell-by-cell translation mode functions smoothly, the batch mode currently has a limitation with the select language functionality. As a temporary solution, the default language during batch mode has been set to French.
+
+## Data Sources
+The data utilized by Tafsiri can be found at [SQL Playground](https://uibakery.io/sql-playground).
+
+## Demo
+For a demonstration of Tafsiri's functionality, please watch the [Tafsiri Demo Video](https://youtu.be/kQcZr803vxg?si=7o7pIPaxcgYlpZMc).
