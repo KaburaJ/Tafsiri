@@ -19,6 +19,6 @@ While the cell-by-cell translation mode functions smoothly, the batch mode curre
 The data utilized by Tafsiri can be found at [SQL Playground](https://uibakery.io/sql-playground).
 
 ## Demo
-For a demonstration of Tafsiri's functionality, please watch the [Tafsiri Demo Video](https://youtu.be/kQcZr803vxg?si=7o7pIPaxcgYlpZMc).
+For a demonstration of Tafsiri's functionality, please watch the [Tafsiri Demo Video](https://youtu.be/kQcZr803vxg?si=7o7pIPaxcgYlpZMc). For a sneak preview of Tafsiri's extended version, watch [this video](https://youtu.be/FbS9grelxBo)
 
 
